@@ -1,0 +1,22 @@
+#john wick
+student={1:'shafin',2:'thottithodi'}
+student
+dir(student)
+id(student)
+type(student)
+student[2]
+students={'name':'shafin','dob':'6-4-2004','address':'thottithodi'}
+students['name']
+students['dob']
+students['address']
+students.keys()
+students.values()
+students.items()
+students['age']
+students['age']=99
+students
+students['name']='kalki'
+students
+students.get('name')
+students.update({'name':'captain','age':'101','address':'america'})
+students
